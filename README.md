@@ -2,7 +2,7 @@
 
 A comprehensive end-to-end testing framework built with Playwright, featuring UI and API testing capabilities with ReportPortal integration. The framework tests a WordPress site and the Restful-Booker API, providing detailed reporting and analysis capabilities.
 
-## Prerequisites
+## Prerequisitesasd
 
 ### Required Software
 - Node.js (>= 20.0.0)
